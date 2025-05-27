@@ -96,6 +96,6 @@ If you'd like to contribute or suggest improvements, feel free to open an issue 
 
 ## 👤 Author
 
-Created by [Jeniya Rashid](https://github.com/Jeniya1378)  
+Created by [Jeniya Sultana](https://github.com/Jeniya1378)  
 Graduate Student | Civil Engineering | University of Texas at El Paso  
 Specializing in BIM, Exoskeleton Safety Research, and Smart Construction
